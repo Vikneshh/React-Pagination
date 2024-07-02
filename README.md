@@ -1,0 +1,1 @@
+#### Created a Pagination compoenent by using dummyjson api
