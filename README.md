@@ -1,1 +1,1 @@
-#### Created a Pagination compoenent by using dummyjson api
+#### Created a Pagination component by using dummyjson api
